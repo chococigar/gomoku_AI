@@ -1,0 +1,18 @@
+#board{
+	font-size:40px;
+	font-family:Helvetica;
+}
+
+#whose_turn{
+	font-size:30px;
+}
+
+th a {
+	text-decoration:none;
+	color:black;
+}
+
+body{
+	font-family:Helvetica;
+
+}
